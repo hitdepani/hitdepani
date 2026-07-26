@@ -89,36 +89,13 @@ Free-to-operate AI Gmail assistant with OAuth login, priority-based inbox sortin
 
 <img src="https://skillicons.dev/icons?i=py,java,js,react,fastapi,nodejs,gcp,git,githubactions,verilog&theme=dark" />
 
-</div>
-
-**AI / ML**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-6366F1?style=for-the-badge)
-![Anthropic](https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-**Quant / Trading**
-
-![TradingView](https://img.shields.io/badge/Pine%20Script-131722?style=for-the-badge&logo=tradingview&logoColor=white)
-![NSE](https://img.shields.io/badge/NSE%20Backtesting-0F766E?style=for-the-badge)
-
----
-
-### 📊 GitHub Stats & Language Breakdown
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hitdepani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=2563eb&icon_color=2563eb&text_color=e2e8f0&count_private=true&cache_seconds=3600" />
-<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hitdepani&layout=pie&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=2563eb&text_color=e2e8f0&cache_seconds=3600" />
-
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hitdepani&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=2563eb&line=2563eb&point=e2e8f0" width="100%"/>
+<img src="https://img.shields.io/badge/-%20-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/-%20-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/-%20-412991?style=for-the-badge&logo=openai&logoColor=white" height="48"/>
 
 </div>
-
-<sub>⚠️ If either card above shows a broken image, it's a temporary outage on the free public stats service (it's shared by millions of GitHub profiles) — not an issue with your file. Refresh the page after a minute, or re-commit to force a re-render.</sub>
 
 ---
 
